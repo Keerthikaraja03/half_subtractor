@@ -13,6 +13,11 @@ Diff = A’B+AB’ =A ⊕ B Borrow = A’B
 
 image
 
+
+<img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/ca5a49ab-a1b8-463a-ae03-441dca615e23" />
+
+
+
 Figure -01 HALF Subtractor
 
 Truthtable
